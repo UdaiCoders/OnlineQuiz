@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "342759921224",
+    "firebase_url": "https://onlinequiz-e502e-default-rtdb.firebaseio.com",
+    "project_id": "onlinequiz-e502e",
+    "storage_bucket": "onlinequiz-e502e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342759921224:android:5ad9aa985b64dee50c6a7d",
+        "android_client_info": {
+          "package_name": "com.UdaiCoders.OnlineQuiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmL5RzykDvYP87O10yHyJwNBa1CIxZUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342759921224-p6o94d9eanhhn3aji18rrj8ibogrfrcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
